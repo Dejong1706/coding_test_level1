@@ -5,6 +5,3 @@ def solution(phone_number):
         answer2 += "*"
     result = answer2 + answer
     return result
-
-n = "01033334444"
-print(solution(n))
